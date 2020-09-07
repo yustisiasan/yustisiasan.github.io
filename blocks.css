@@ -1,0 +1,179 @@
+
+/* This is a partial blocks.css, you need to add more rules
+   to this file to complete the assignment.  Do not add any CSS
+   styling to the original index.htm / start.htm */
+body {
+    font-family: "Lucida Console", Courier, monospace;
+}
+h3{
+	text-align: center;
+}
+@media (min-width: 992px){
+	#one {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 32%;
+		margin-left: 0%;
+		position: absolute;
+	}
+	#two {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 32%;
+		margin-left: 33%;
+		position: absolute;
+	}
+	#three {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 32%;
+		margin-left: 66%;
+		position: absolute;
+	}
+	#menu-tittle1{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: pink;
+	}
+	#menu-tittle2{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: #DC143C;
+	}
+	#menu-tittle3{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: #F0E68C;
+	}
+	a{
+		text-decoration: none;
+		color: white;
+		position: absolute;
+		left: 45%;
+		top: 10px;
+		background-color: blue;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	#one {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 49%;
+		margin-left: 0%;
+		position: absolute;
+	}
+	#two {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 49%;
+		margin-left: 51%;
+		position: absolute;
+	}
+	#three {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 100%;
+		margin-top: 18%;
+		position: absolute;
+	}
+	#menu-tittle1{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: pink;
+	}
+	#menu-tittle2{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: #DC143C;
+	}
+	#menu-tittle3{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: #F0E68C;
+	}
+	a{
+		text-decoration: none;
+		color: white;
+		position: absolute;
+		left: 45%;
+		top: 10px;
+		background-color: blue;
+	}
+}
+@media (max-width: 767px){
+	#one {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 80%;
+		margin-left: 8%;
+		position: absolute;
+	}
+	#two {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 80%;
+		margin-left: 8%;
+		margin-top: 33%;
+		position: absolute;
+	}
+	#three {
+		border: 3px black solid;
+		background-color: #B8B8B8;
+		width: 80%;
+		margin-left: 8%;
+		margin-top: 66%;
+		position: absolute;
+	}
+	#menu-tittle1{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: pink;
+	}
+	#menu-tittle2{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: #DC143C;
+	}
+	#menu-tittle3{
+		border: 2px black solid;
+		width: 25%;
+		padding: 0px;
+		margin: 0px;
+		right: 0%;
+		background-color: #F0E68C;
+	}
+	a{
+		text-decoration: none;
+		color: white;
+		position: absolute;
+		left: 45%;
+		top: 10px;
+		background-color: blue;
+	}
+}
+
+/* Here is one of many  CSS rules you will need... */
